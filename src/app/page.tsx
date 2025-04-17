@@ -56,7 +56,7 @@ export default function HomePage() {
         updatedData[i].status = 'error';
       }
 
-      // Update UI after each mail
+
       setData([...updatedData]);
     }
 
@@ -138,7 +138,7 @@ export default function HomePage() {
 
       <footer className="mt-8 text-center text-sm text-gray-500">
         <p>
-          Made with 💙 by <a href="https://github.com/rohit-coder" className="text-blue-600 hover:underline">Rohit_Coder</a>
+          Made with 💙 by <a href="https://www.instagram.com/rohit_coder_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="text-blue-600 hover:underline">Rohit_Coder</a>
         </p>
       </footer>
     </main>
